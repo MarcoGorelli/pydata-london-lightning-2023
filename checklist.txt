@@ -1,0 +1,4 @@
+checklist
+
+1. remove duplicate cell
+2. reset and clear outputs
